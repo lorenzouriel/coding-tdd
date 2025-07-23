@@ -11,7 +11,7 @@ pytest-tdd/
 ├── code/                       # Source code
 │   └── bytebank.py             # Funcionario class
 ├── tests/                      # Unit tests
-│   ├── **init**.py
+│   ├── __init__.py
 │   └── test\_bytebank.py
 ├── coverage\_relatorio\_html/    # HTML coverage report (generated)
 ├── .coveragerc                 # Coverage configuration
