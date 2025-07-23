@@ -22,7 +22,7 @@ source .venv/bin/activate  # Linux/macOS
 
 2. **Install dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install icontract pytest
 ```
 
 ## Implementation Highlights (`user_with_contracts.py`)
